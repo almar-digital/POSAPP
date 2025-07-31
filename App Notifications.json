@@ -1,15 +1,17 @@
-{
-  "lastNotificationId": 1,
-  "notifications": [
-    {
-      "id": 1,
-      "message": "Panel Discussion: 'Building Inclusive Communities' starting in 5 minutes at Main Stage!",
-      "timestamp": "2025-07-31T12:04:00Z"
-    },
-    {
-      "id": 2,
-      "message": "Next up on the Acoustic Tent: Live Poetry Slam! Don't miss it!",
-      "timestamp": "2025-07-31T13:20:00Z"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "title": "Welcome to Pride!",
+    "message": "The event is now officially open! Enjoy the celebrations! 🏳️‍🌈"
+  },
+  {
+    "id": 2,
+    "title": "Stage Schedule Change",
+    "message": "Due to unforeseen circumstances, the Main Stage act at 3 PM has been moved to 4 PM."
+  },
+  {
+    "id": 3,
+    "title": "Lost Item Alert",
+    "message": "A blue backpack was found near the entrance. Please report to the information point if it's yours."
+  }
+]
