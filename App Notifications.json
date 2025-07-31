@@ -13,5 +13,10 @@
     "id": 3,
     "title": "Lost Item Alert",
     "message": "A blue backpack was found near the entrance. Please report to the information point if it's yours."
+  },
+  {
+    "id": 4,
+    "title": "Hello Conor and Rob!",
+    "message": "I hope you like the app."
   }
 ]
