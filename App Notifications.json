@@ -1,0 +1,15 @@
+{
+  "lastNotificationId": 1,
+  "notifications": [
+    {
+      "id": 1,
+      "message": "Panel Discussion: 'Building Inclusive Communities' starting in 5 minutes at Main Stage!",
+      "timestamp": "2025-07-31T12:00:00Z"
+    },
+    {
+      "id": 2,
+      "message": "Next up on the Acoustic Tent: Live Poetry Slam! Don't miss it!",
+      "timestamp": "2025-07-31T13:20:00Z"
+    }
+  ]
+}
