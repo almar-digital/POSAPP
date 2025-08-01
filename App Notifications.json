@@ -1,22 +1,7 @@
 [
   {
     "id": 1,
-    "title": "Hello Alistair!",
-    "message": "Enjoy the event!!!! 🏳️‍🌈"
+    "title": "Welcome to the Pride event app!",
+    "message": "Save this link to see all the updates!!!! 🏳️‍🌈"
   },
-  {
-    "id": 2,
-    "title": "Stage Schedule Change",
-    "message": "Due to unforeseen circumstances, the Main Stage act at 3 PM has been moved to 4 PM."
-  },
-  {
-    "id": 3,
-    "title": "Lost Item Alert",
-    "message": "A blue backpack was found near the entrance. Please report to the information point if it's yours."
-  },
-  {
-    "id": 4,
-    "title": "Hello Conor and Rob!",
-    "message": "I hope you like the app."
-  }
 ]
