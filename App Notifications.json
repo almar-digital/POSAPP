@@ -3,5 +3,10 @@
     "id": 1,
     "title": "Welcome to the Pride event app!",
     "message": "Save this link to see all the updates!!!! 🏳️‍🌈"
+  },
+  {
+    "id": 2,
+    "title": "🎶 NEW feature just dropped!",
+    "message": "Request an interval song here in the app. Click menu > song request"
   }
 ]
