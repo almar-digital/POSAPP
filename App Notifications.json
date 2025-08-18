@@ -8,5 +8,11 @@
     "id": 2,
     "title": "🎶 NEW feature just dropped!",
     "message": "Request an interval song here in the app. Click menu > song request"
+  },
+  {
+    "id": 3,
+    "title": "🗓️ 5 days to go!",
+    "message": "We are so excited! Make sure you have your ticket in advance."
   }
 ]
+
