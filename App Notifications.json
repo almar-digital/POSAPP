@@ -48,8 +48,14 @@
     "id": 10,
     "title": "Snap a photo with our photo booth feature! 🤳📸",
     "message": "Click photo booth in the menu."
+  },
+    {
+    "id": 11,
+    "title": "Our second talk show is starting now! Don’t miss it in the main foyer.",
+    "message": "Post your questions in the Q&A tab of the app 🤔"
   }
 ]
+
 
 
 
