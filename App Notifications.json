@@ -19,47 +19,38 @@
     "title": "🎨 Stalls now added!",
     "message": "Stalls and their activities now announced. Check out the stalls tab!."
   },
-  {
-    "id": 5,
-    "title": "On the countdown ⌚🎉",
-    "message": "2 hours to go before doors open!⌚🎉."
-  },
    {
-    "id": 6,
+    "id": 5,
     "title": "On the countdown 🎉",
     "message": "2 hours to go before doors open!"
   },
   {
-    "id": 7,
+    "id": 6,
     "title": "Welcome to Pride on Stage community hours!",
     "message": "Check out the programme and stalls tab to see what is going on where and when."
   },
    {
-    "id": 8,
-    "title": "Starting now!😁",
-    "message": "Join Micky Cooper on the acoustic stage for our panel discussion on Resilience"
-  },
-   {
-    "id": 9,
+    "id": 7,
     "title": "Starting now!😁",
     "message": "Join Micky Cooper on the acoustic stage for our panel discussion on Resilience"
   },
   {
-    "id": 10,
+    "id": 8,
     "title": "Snap a photo with our photo booth feature! 🤳📸",
     "message": "Click photo booth in the menu."
   },
     {
-    "id": 11,
+    "id": 9,
     "title": "Our second talk show is starting now! Don’t miss it in the main foyer.",
     "message": "Post your questions in the Q&A tab of the app 🤔"
   },
   {
-    "id": 12,
+    "id": 10,
     "title": "Have you created your own flag yet?",
     "message": "Go and see the Over the Rainbow group in the Bragg level for their flag workshop🏳️‍🌈"
   }
 ]
+
 
 
 
