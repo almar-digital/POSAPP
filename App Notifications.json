@@ -15,12 +15,12 @@
     "message": "We are so excited! Make sure you have your ticket in advance."
  },
   {
-    "id": 4,
+    "id": 5,
     "title": "🎨 Stalls now added!",
     "message": "Stalls and their activities now announced. Check out the stalls tab!."
   },
   {
-    "id": 4,
+    "id": 6,
     "title": "On the countdown ⌚🎉",
     "message": "2 hours to go before doors open!⌚🎉."
   },
@@ -30,6 +30,7 @@
     "message": "2 hours to go before doors open!."
   }
 ]
+
 
 
 
